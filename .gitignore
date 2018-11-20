@@ -1,5 +1,8 @@
-
 .DS_Store
 *.iml
 *.xml
+<<<<<<< HEAD
 *.pyc
+=======
+*.txt
+>>>>>>> 9f9e5c998f0aba937d47cc560f65a9aad8b2216d
